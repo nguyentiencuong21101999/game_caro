@@ -1,0 +1,66 @@
+.modal-body {
+}
+.info {
+    position: absolute;
+    margin-top: -47px;
+    margin-left: 54px;
+}
+.name {
+    font-weight: bold;
+}
+.role {
+    font-size: 13px;
+}
+.add-friend1 {
+    padding: 4px;
+    border: 1px solid;
+    position: absolute;
+    margin-top: -5px;
+    margin-left: 290px;
+    border-radius: 10px;
+}
+.add-friend {
+    padding: 4px;
+    border: 1px solid;
+    position: absolute;
+    margin-top: -5px;
+    margin-left: 190px;
+    border-radius: 10px;
+}
+.add-friend3 {
+    padding: 4px;
+    border: 1px solid;
+    position: absolute;
+    margin-top: -5px;
+    margin-left: 166px;
+    border-radius: 10px;
+}
+.acceptFriend {
+    background-color: white !important;
+    color: black !important;
+    border: none !important;
+    padding: 10px 15px;
+    margin: 5px;
+}
+.acceptFriend:focus {
+    border: solid 1px white !important;
+}
+.acceptFriend:hover {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+.game {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.game a {
+    color: black;
+    font-size: 15px;
+}
+.game a:hover {
+    color: black;
+}
+.game:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}

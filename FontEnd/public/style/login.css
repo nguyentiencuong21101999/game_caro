@@ -1,0 +1,47 @@
+.btnRegister{
+    font-family: Ubuntu-Bold;
+    font-size: 11px;
+    color: #fff;
+    line-height: 1.2;
+    text-transform: uppercase;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* min-width: 95px; */
+    width: 34%;
+    height: 25px;
+    border-radius: 21px;
+    background: #d41872;
+    background: -webkit-linear-gradient(left, #609de0, #28a745, #d05d26ad);
+    margin-top: 4%;
+    margin-left: 2%;
+}
+.btnForgot{
+    font-family: Ubuntu-Bold;
+    font-size: 11px;
+    color: #fff;
+    line-height: 1.2;
+    text-transform: uppercase;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* min-width: 95px; */
+    width: 34%;
+    height: 25px;
+    border-radius: 21px;
+    background: #d41872;
+    background: -webkit-linear-gradient(left, #c3ac64, #29863e, #558bc5);
+    margin-top: -7%;
+    margin-left: 63%;
+}
+.login100-form-btn{
+    background: -webkit-linear-gradient(left, #c3ac64, #da5a97, #45e469) !important;
+}

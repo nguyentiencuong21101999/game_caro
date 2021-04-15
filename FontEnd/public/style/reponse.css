@@ -1,0 +1,10 @@
+.avatars img {
+    color: yellow;
+    border-radius: 50%;
+    width: 48%;
+    height: auto;
+    max-height: 215px;
+    margin-left: 26%;
+    border: 1px solid white;
+    margin-top: -21%;
+}
